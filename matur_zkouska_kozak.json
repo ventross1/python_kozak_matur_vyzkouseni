@@ -1,0 +1,19 @@
+{
+  "cards": [
+    {
+      "name": "peter",
+      "colour": "red",
+      "symbol": "hearts"
+    },
+    {
+      "name": "franklin",
+      "colour": "blue",
+      "symbol": "spades"
+    },
+    {
+      "name": "jimmy",
+      "colour": "black",
+      "symbol": "clovers"
+    }
+  ]
+}
